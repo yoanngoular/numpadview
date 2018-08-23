@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/transparent"
+    android:rowCount="4"
+    android:columnCount="3">
+
+    <TextView
+        android:id="@+id/pad_number_1"
+        style="@style/TextAppearance.AppCompat.PadNumber"
+        android:layout_width="@dimen/match_constraint"
+        android:layout_height="@dimen/match_constraint"
+        android:text="@string/pad_number_1" />
+
+    <TextView
+        android:id="@+id/pad_number_2"
+        android:layout_width="@dimen/match_constraint"
+        android:layout_height="@dimen/match_constraint"
+        android:text="@string/pad_number_2"
+        style="@style/TextAppearance.AppCompat.PadNumber"
+        />
+
+    <TextView
+        android:id="@+id/pad_number_3"
+        android:layout_width="@dimen/match_constraint"
+        android:layout_height="@dimen/match_constraint"
+        android:text="@string/pad_number_3"
+        style="@style/TextAppearance.AppCompat.PadNumber"
+        />
+
+    <TextView
+        android:id="@+id/pad_number_4"
+        android:layout_width="@dimen/match_constraint"
+        android:layout_height="@dimen/match_constraint"
+        android:text="@string/pad_number_4"
+        style="@style/TextAppearance.AppCompat.PadNumber"
+        />
+
+    <TextView
+        android:id="@+id/pad_number_5"
+        android:layout_width="@dimen/match_constraint"
+        android:layout_height="@dimen/match_constraint"
+        android:text="@string/pad_number_5"
+        style="@style/TextAppearance.AppCompat.PadNumber"
+        />
+
+    <TextView
+        android:id="@+id/pad_number_6"
+        android:layout_width="@dimen/match_constraint"
+        android:layout_height="@dimen/match_constraint"
+        android:text="@string/pad_number_6"
+        style="@style/TextAppearance.AppCompat.PadNumber"
+        />
+
+    <TextView
+        android:id="@+id/pad_number_7"
+        android:layout_width="@dimen/match_constraint"
+        android:layout_height="@dimen/match_constraint"
+        android:text="@string/pad_number_7"
+        style="@style/TextAppearance.AppCompat.PadNumber"
+        />
+
+    <TextView
+        android:id="@+id/pad_number_8"
+        android:layout_width="@dimen/match_constraint"
+        android:layout_height="@dimen/match_constraint"
+        android:text="@string/pad_number_8"
+        style="@style/TextAppearance.AppCompat.PadNumber"
+        />
+
+    <TextView
+        android:id="@+id/pad_number_9"
+        android:layout_width="@dimen/match_constraint"
+        android:layout_height="@dimen/match_constraint"
+        android:text="@string/pad_number_9"
+        style="@style/TextAppearance.AppCompat.PadNumber"
+        />
+
+    <ImageButton
+        android:id="@+id/pad_number_left_icon"
+        android:layout_width="@dimen/match_constraint"
+        android:layout_height="@dimen/match_constraint"
+        android:layout_columnWeight="1"
+        android:layout_rowWeight="1"
+        android:src="@drawable/ic_back"
+        android:background="?attr/selectableItemBackgroundBorderless"
+        android:contentDescription="@string/cd_back_button" />
+
+    <TextView
+        android:id="@+id/pad_number_0"
+        android:layout_width="@dimen/match_constraint"
+        android:layout_height="@dimen/match_constraint"
+        android:text="@string/pad_number_0"
+        style="@style/TextAppearance.AppCompat.PadNumber"
+        />
+
+    <ImageButton
+        android:id="@+id/pad_number_right_icon"
+        android:layout_width="@dimen/match_constraint"
+        android:layout_height="@dimen/match_constraint"
+        android:layout_columnWeight="1"
+        android:layout_rowWeight="1"
+        android:src="@drawable/button_validate"
+        android:background="@android:color/transparent"
+        android:contentDescription="@string/cd_validate_button" />
+
+</GridLayout>

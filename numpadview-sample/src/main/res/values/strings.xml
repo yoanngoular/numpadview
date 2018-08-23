@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">NumPadView</string>
+    <string name="thanks">Thanks for supporting this library</string>
+
+    <string name="default_value">0</string>
+    <string name="default_decimal">.00 €</string>
+
+    <string name="input_value">Input value :</string>
+    <string name="enter_pin">Enter your pin code</string>
+
+    <string name="cd_pin">Empty pin</string>
+</resources>

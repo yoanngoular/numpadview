@@ -1,0 +1,30 @@
+<resources>
+
+    <!-- BASE APP THEME -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar" parent="AppTheme">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <!-- TEXT -->
+    <style name="TextAppearance.AppCompat.BigNumber" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@color/gray_dark</item>
+        <item name="android:textSize">@dimen/text.number.big</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:maxLength">9</item>
+    </style>
+
+    <style name="TextAppearance.AppCompat.Pin.Empty" parent="TextAppearance.AppCompat">
+        <item name="android:layout_margin">@dimen/spacing.small</item>
+        <item name="android:src">@drawable/bg_pin_dot_empty</item>
+        <item name="android:contentDescription">@string/cd_pin</item>
+    </style>
+
+</resources>

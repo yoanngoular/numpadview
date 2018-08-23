@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="numpadview_blue_light">#7097F7</color>
+    <color name="numpadview_green_light">#00E3D6</color>
+    <color name="numpadview_green_dark">#00CDDE</color>
+    <color name="numpadview_white_alpha_30">#4FFFFFFF</color>
+</resources>

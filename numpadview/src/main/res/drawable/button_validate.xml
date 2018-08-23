@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <ripple android:color="?attr/colorControlHighlight">
+            <item>
+                <shape android:shape="rectangle">
+                    <corners
+                        android:radius="@dimen/radius.medium" />
+                    <size
+                        android:height="@dimen/button.round.small"
+                        android:width="@dimen/button.round.small" />
+                    <gradient android:angle="@dimen/gradient.angle.small"
+                        android:endColor="@color/numpadview_green_light"
+                        android:startColor="@color/numpadview_green_dark"
+                        android:type="linear" />
+                    <stroke
+                        android:color="@color/numpadview_white_alpha_30"
+                        android:width="@dimen/fab.medium.stroke" />
+                </shape>
+            </item>
+        </ripple>
+    </item>
+    <item android:gravity="center" android:drawable="@drawable/ic_check"/>
+</layer-list>

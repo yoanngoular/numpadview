@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="match_constraint">0dp</dimen>
+
+    <dimen name="spacing.small.very">8dp</dimen>
+    <dimen name="spacing.small">10dp</dimen>
+
+    <dimen name="text.body.small">16sp</dimen>
+    <dimen name="text.number.small">14sp</dimen>
+    <dimen name="text.number.big">40sp</dimen>
+
+    <!-- Pin -->
+    <dimen name="pin.dot">24dp</dimen>
+    <dimen name="pin.dot.stroke">2dp</dimen>
+</resources>

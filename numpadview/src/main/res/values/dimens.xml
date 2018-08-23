@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="match_constraint">0dp</dimen>
+    <!-- Text -->
+    <dimen name="text.number.medium">22sp</dimen>
+    <!-- Gradient -->
+    <dimen name="gradient.angle.small">45</dimen>
+    <!-- Fab -->
+    <dimen name="fab.medium.stroke">6dp</dimen>
+    <!-- Radius -->
+    <dimen name="radius.medium">20dp</dimen>
+    <!-- Button -->
+    <dimen name="button.round.small">48dp</dimen>
+
+</resources>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">NumPadView</string>
+
+    <!-- Pad numbers -->
+    <string name="pad_number_0" translatable="false">0</string>
+    <string name="pad_number_1" translatable="false">1</string>
+    <string name="pad_number_2" translatable="false">2</string>
+    <string name="pad_number_3" translatable="false">3</string>
+    <string name="pad_number_4" translatable="false">4</string>
+    <string name="pad_number_5" translatable="false">5</string>
+    <string name="pad_number_6" translatable="false">6</string>
+    <string name="pad_number_7" translatable="false">7</string>
+    <string name="pad_number_8" translatable="false">8</string>
+    <string name="pad_number_9" translatable="false">9</string>
+
+
+    <!-- Content Description -->
+    <string name="cd_back_button" translatable="false">Back button</string>
+    <string name="cd_validate_button" translatable="false">Validate button</string>
+
+</resources>
