@@ -1,7 +1,5 @@
-# numpadview
+# numpadview &middot; [![](https://jitpack.io/v/yoanngoular/numpadview.svg)](https://jitpack.io/#yoanngoular/numpadview)
 A nice and fully customizable Kotlin numeric keypad view for Android
- 
-[![](https://jitpack.io/v/yoanngoular/numpadview.svg)](https://jitpack.io/#yoanngoular/numpadview)
  
 <img src="https://media.giphy.com/media/bqsJUifrQ0tpniVmtr/giphy.gif" width="227" height="480" />
  
