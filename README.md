@@ -49,8 +49,8 @@ Just declare the custom view inside your xml :
     />
 ```
 It should now look just like this.
- 
-<img align="center" src="http://i63.tinypic.com/zv4jdg.png"/>
+
+<img width="227" height="480" align="center" src="https://i.ibb.co/4JxnGhM/device-2019-12-15-123125.png"/>
  
 ### Customize your keypad
  
